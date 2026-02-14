@@ -21,6 +21,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
+          { text: '前额叶全谱系训练体系', link: '/blog/pfc-full-spectrum-training' },
           { text: '什么是前额叶皮层？', link: '/blog/what-is-prefrontal-cortex' }
         ]
       }
