@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/cortex/',
   title: 'Cortex',
   description: '前额叶 — 探索大脑的指挥中心',
   lang: 'zh-CN',
